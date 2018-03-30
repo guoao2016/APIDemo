@@ -4,6 +4,11 @@
     <text class="title">紫星快应用API Demo合集</text>
     <!-- 点击跳转详情页 -->
     <input class="btn" type="button" value="点击进入API列表" onclick="routeDetail">
+     <a class="btn" href="tel:10086">调起电话</a>
+    <a class="btn" href="sms:10086">调起短信</a>
+    <a class="btn" href="mailto:18617183143@163.com">调起邮件</a>
+    <!-- 打开webview加载网页 -->
+    <a class="btn" href="https://www.baidu.com/">打开网页</a>
   </div>
 </template>
 
@@ -25,6 +30,7 @@
     margin-top: 75px;
     border-radius: 43px;
     background-color: #09ba07;
+    text-align:center;
     font-size: 30px;
     color: #ffffff;
   }
