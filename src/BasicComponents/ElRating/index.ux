@@ -1,0 +1,24 @@
+<template>
+    <div class="demo-page">
+        <rating numstars="5" rating="1" stepsize="0.5" indicator="true"></rating>
+        <a class="test" href="/About">
+            测试a标签
+        </a>
+    </div>
+</template>
+<style>
+    .demo-page {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .test {
+        opacity: 0.5;
+    }
+</style>
+<script>
+    export default {
+
+    }
+</script>

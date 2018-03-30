@@ -40,27 +40,27 @@
             listData: [
                 {
                     name: 'a',
-                    url: ''
+                    url: '/BasicComponents/ElA'
                 },
                 {
                     name: 'image',
-                    url: ''
+                    url: '/BasicComponents/ElImage'
                 },
                 {
                     name: 'progress',
-                    url: ''
+                    url: '/BasicComponents/ElProgress'
                 },
                 {
                     name: 'rating',
-                    url: ''
+                    url: '/BasicComponents/ElRating'
                 },
                 {
                     name: 'span',
-                    url: ''
+                    url: '/BasicComponents/ElSpan'
                 },
                 {
                     name: 'text',
-                    url: ''
+                    url: '/BasicComponents/ElText'
                 }
             ]
         },

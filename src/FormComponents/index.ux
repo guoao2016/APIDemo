@@ -40,35 +40,35 @@
             listData: [
                 {
                     name: 'input',
-                    url: ''
+                    url: '/FormComponents/Input'
                 },
                 {
                     name: 'label',
-                    url: ''
+                    url: '/FormComponents/Label'
                 },
                 {
                     name: 'option',
-                    url: ''
+                    url: '/FormComponents/Option'
                 },
                 {
                     name: 'picker',
-                    url: ''
+                    url: '/FormComponents/Picker'
                 },
                 {
                     name: 'select',
-                    url: ''
+                    url: '/FormComponents/Select'
                 },
                 {
                     name: 'slider',
-                    url: ''
+                    url: '/FormComponents/Slider'
                 },
                 {
                     name: 'switch',
-                    url: ''
+                    url: '/FormComponents/Switch'
                 },
                 {
                     name: 'textarea',
-                    url: ''
+                    url: '/FormComponents/Textarea'
                 }
             ]
         },

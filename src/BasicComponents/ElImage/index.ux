@@ -1,0 +1,20 @@
+<template>
+    <div class="demo-page">
+        <image class="test"src="../images/group.jpg"></image>
+    </div>
+</template>
+<style>
+    .demo-page {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .test{
+        opacity: 0.5;
+    }
+</style>
+<script>
+    export default{
+
+    }
+</script>

@@ -15,6 +15,7 @@
 
         <!-- 点击监听地理位置 -->
         <input class="btn" type="button" value="监听地理位置" onclick="subscribe">
+        <text></text>
     </div>
 </template>
 

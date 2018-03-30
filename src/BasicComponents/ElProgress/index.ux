@@ -1,0 +1,25 @@
+<template>
+    <div class="demo-page">
+        <progress class="test" percent="8" type="circular">
+            测试a标签---
+        </progress>
+        <progress class="test" percent="8" type="horizontal">
+                测试a标签
+        </progress>
+    </div>
+</template>
+<style>
+    .demo-page {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .test{
+        opacity: 0.5;
+    }
+</style>
+<script>
+    export default{
+
+    }
+</script>

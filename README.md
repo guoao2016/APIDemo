@@ -16,3 +16,7 @@
 - 下面是进学习交流群的二维码链接
 ----------
 ![image](https://github.com/l455202325/APIDemo/blob/master/images/group.jpg)
+
+-----------
+1. Cannot find module '/work/quick/node_modules/hap-tools/webpack.config.js'
+- 如果报错遇到Cannot find module '.../webpack.config.js'，请重新执行一次hap update --force。这是由于高版本的npm在npm install时，会校验并删除了node_modules下部分文件夹，导致报错。而hap update --force会重新复制hap-toolkit文件夹到node_modules中

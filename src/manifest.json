@@ -60,15 +60,6 @@
       "About": {
         "component": "index"
       },
-      "SystemCapability": {
-        "component": "index"
-      },
-      "SystemCapability/Sensor": {
-        "component": "index"
-      },
-      "SystemCapability/Clipboard": {
-        "component": "index"
-      },
       "BasicFunction": {
         "component": "index"
       },
@@ -81,7 +72,49 @@
       "BasicComponents": {
         "component": "index"
       },
+      "BasicComponents/ElA": {
+        "component": "index"
+      },
+      "BasicComponents/ElImage": {
+        "component": "index"
+      },
+      "BasicComponents/ElProgress": {
+        "component": "index"
+      },
+      "BasicComponents/ElRating": {
+        "component": "index"
+      },
+      "BasicComponents/ElSpan": {
+        "component": "index"
+      },
+      "BasicComponents/ElText": {
+        "component": "index"
+      },
       "FormComponents": {
+        "component": "index"
+      },
+      "FormComponents/Input": {
+        "component": "index"
+      },
+      "FormComponents/Label": {
+        "component": "index"
+      },
+      "FormComponents/Option": {
+        "component": "index"
+      },
+      "FormComponents/Picker": {
+        "component": "index"
+      },
+      "FormComponents/Select": {
+        "component": "index"
+      },
+      "FormComponents/Slider": {
+        "component": "index"
+      },
+      "FormComponents/Switch": {
+        "component": "index"
+      },
+      "FormComponents/Textarea": {
         "component": "index"
       },
       "MediaComponents": {
@@ -114,6 +147,15 @@
       "ThirdService": {
         "component": "index"
       },
+      "SystemCapability": {
+        "component": "index"
+      },
+      "SystemCapability/Sensor": {
+        "component": "index"
+      },
+      "SystemCapability/Clipboard": {
+        "component": "index"
+      },
       "SystemCapability/NetworkState": {
         "component": "index"
       },
@@ -127,6 +169,9 @@
         "component": "index"
       },
       "SystemCapability/Barcode": {
+        "component": "index"
+      },
+      "SystemCapability/DeviceInfo": {
         "component": "index"
       }
     }
@@ -146,18 +191,6 @@
       "About": {
         "menu": false
       },
-      "SystemCapability": {
-        "titleBarText": "系统能力",
-        "menu": false
-      },
-      "SystemCapability/Sensor": {
-        "titleBarText": "传感器",
-        "menu": false
-      },
-      "SystemCapability/Barcode": {
-        "titleBarText": "二维码",
-        "menu": false
-      },
       "BasicFunction": {
         "titleBarText": "基本功能",
         "menu": false
@@ -174,8 +207,64 @@
         "titleBarText": "基础组件",
         "menu": false
       },
+      "BasicComponents/ElA": {
+        "titleBarText": "a11",
+        "menu": false
+      },
+      "BasicComponents/ElImage": {
+        "titleBarText": "image",
+        "menu": false
+      },
+      "BasicComponents/ElProgress": {
+        "titleBarText": "progress",
+        "menu": false
+      },
+      "BasicComponents/ElRating": {
+        "titleBarText": "rating",
+        "menu": false
+      },
+      "BasicComponents/ElSpan": {
+        "titleBarText": "span",
+        "menu": false
+      },
+      "BasicComponents/ElText": {
+        "titleBarText": "test",
+        "menu": false
+      },
       "FormComponents": {
         "titleBarText": "表单组件",
+        "menu": false
+      },
+      "FormComponents/Input": {
+        "titleBarText": "input",
+        "menu": false
+      },
+      "FormComponents/Label": {
+        "titleBarText": "label",
+        "menu": false
+      },
+      "FormComponents/Option": {
+        "titleBarText": "option",
+        "menu": false
+      },
+      "FormComponents/Picker": {
+        "titleBarText": "picker",
+        "menu": false
+      },
+      "FormComponents/Select": {
+        "titleBarText": "select",
+        "menu": false
+      },
+      "FormComponents/Slider": {
+        "titleBarText": "slider",
+        "menu": false
+      },
+      "FormComponents/Switch": {
+        "titleBarText": "switch",
+        "menu": false
+      },
+      "FormComponents/Textarea": {
+        "titleBarText": "textarea",
         "menu": false
       },
       "MediaComponents": {
@@ -218,8 +307,20 @@
         "titleBarText": "第三方服务",
         "menu": false
       },
-      "SystemCapability/NetworkState": {
-        "titleBarText": "网络状态",
+      "SystemCapability": {
+        "titleBarText": "系统能力",
+        "menu": false
+      },
+      "SystemCapability/Barcode": {
+        "titleBarText": "二维码",
+        "menu": false
+      },
+      "SystemCapability/Sensor": {
+        "titleBarText": "传感器",
+        "menu": false
+      },
+      "SystemCapability/Clipboard": {
+        "titleBarText": "剪贴板",
         "menu": false
       },
       "SystemCapability/GeoLocation": {
@@ -230,12 +331,16 @@
         "titleBarText": "桌面图标",
         "menu": false
       },
-      "SystemCapability/Clipboard": {
-        "titleBarText": "剪贴板",
-        "menu": false
-      },
       "SystemCapability/Calendar": {
         "titleBarText": "日历事件",
+        "menu": false
+      },
+      "SystemCapability/NetworkState": {
+        "titleBarText": "网络状态",
+        "menu": false
+      },
+      "SystemCapability/DeviceInfo": {
+        "titleBarText": "设备信息",
         "menu": false
       }
     }

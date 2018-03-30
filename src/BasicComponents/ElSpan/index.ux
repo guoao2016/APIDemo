@@ -1,0 +1,26 @@
+<template>
+    <div class="demo-page">
+        <a class="test" href="/About">
+            测试a标签
+        </a>
+        <text>
+            <span>只能作为" text 与 a "的子组件</span>
+        </text>
+    </div>
+</template>
+<style>
+    .demo-page {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .test {
+        opacity: 0.5;
+    }
+</style>
+<script>
+    export default {
+
+    }
+</script>

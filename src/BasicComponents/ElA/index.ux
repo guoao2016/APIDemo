@@ -1,0 +1,24 @@
+<template>
+    <div class="demo-page">
+        <a class="test" href = "/About">
+            {{test}}
+        </a>
+    </div>
+</template>
+<style>
+    .demo-page {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .test{
+        opacity: 0.5;
+    }
+</style>
+<script>
+    export default{
+        data: {
+            test: '测试a标签'
+        }
+    }
+</script>
